@@ -25,7 +25,7 @@ public class HomePageSteps {
 	private HomePage hp = new HomePage(driver);
 	private AddEmployeePage aep = new AddEmployeePage(driver);
 	private ElementUtils Utility = new ElementUtils(driver);
-    Logger log;
+ 
     
 	@Given("user Clicks on PIM and Click on Add button to add Employee")
 	public void user_Clicks_on_PIM_and_Click_on_Add_button_to_add_Employee() throws InterruptedException {
