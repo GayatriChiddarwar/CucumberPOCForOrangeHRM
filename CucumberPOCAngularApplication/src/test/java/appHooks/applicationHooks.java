@@ -49,9 +49,21 @@ public class applicationHooks {
 		String BrowserName =prop.getProperty("browser");
 		driverfactory = new DriverFactory();
 		driver =driverfactory.init_driver(BrowserName);
-	};
+	}
 	
    
+	
+	public void readDbConfig()
+	{
+		//rb=rb.getBundle("config"); 
+		configReader =new ConfigReader();
+		prop = configReader.init_prop();
+		String dbpath = prop.getProperty("dbpath");
+		 String dbUname=prop.getProperty("dbUname");
+		 String dbPass= prop.getProperty("dbPass");// method from Drivermanager which gives instace of Connection 
+	    String getConnString = dbpath+","+dbUname+","+dbPass;
+	    System.out.println(getConnString);
+	}
 	//@Before(order = 1)//junit hooks- execute once before scenrio
 	 public WebDriver setUp()
 	   {
@@ -62,13 +74,14 @@ public class applicationHooks {
 		//logger =LogManager.getLogger(this.getClass()); 
 		return driver;
 	   }
-	   
+	  
+	 
 	
 	
 	@After(order = 0)
 	public void quitbrowser()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 	
 	@After(order =1)

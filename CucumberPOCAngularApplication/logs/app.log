@@ -1,17 +1,16 @@
-[INFO ] 2023-01-31 17:39:18.688 [main] AddEmployeePage - Employee Details added
-[INFO ] 2023-01-31 17:39:19.212 [main] AddEmployeePage - Login info checked
-[INFO ] 2023-01-31 17:39:22.898 [main] AddEmployeePage - Employee credentials sent succesfully
-[INFO ] 2023-01-31 17:44:00.360 [main] AddEmployeePage - Employee Details added
-[INFO ] 2023-01-31 17:44:00.880 [main] AddEmployeePage - Login info checked
-[INFO ] 2023-01-31 17:44:03.661 [main] AddEmployeePage - Employee credentials sent succesfully
-[INFO ] 2023-01-31 17:46:26.505 [main] AddEmployeePage - Employee Details added
-[INFO ] 2023-01-31 17:46:27.114 [main] AddEmployeePage - Login info checked
-[INFO ] 2023-01-31 17:46:29.909 [main] AddEmployeePage - Employee credentials sent succesfully
-[INFO ] 2023-01-31 17:58:39.321 [main] AddEmployeePage - Employee Details added
-[INFO ] 2023-01-31 17:58:40.014 [main] AddEmployeePage - Login info checked
-[INFO ] 2023-01-31 17:58:42.989 [main] AddEmployeePage - Employee credentials sent succesfully
-[INFO ] 2023-01-31 18:00:26.434 [main] RecruitmentPageSteps - Navigated to job vacancy page
-[INFO ] 2023-01-31 18:07:48.614 [main] AddEmployeePage - Employee Details added
-[INFO ] 2023-01-31 18:07:49.271 [main] AddEmployeePage - Login info checked
-[INFO ] 2023-01-31 18:07:52.416 [main] AddEmployeePage - Employee credentials sent succesfully
-[INFO ] 2023-01-31 18:09:53.511 [main] RecruitmentPageSteps - Navigated to job vacancy page
+[INFO ] 2023-02-22 13:18:12.366 [main] AddEmployeePage - Employee Details added
+[INFO ] 2023-02-22 13:18:15.106 [main] AddEmployeePage - Login info checked
+[INFO ] 2023-02-22 13:18:31.775 [main] AddEmployeePage - Employee credentials sent succesfully
+[INFO ] 2023-02-22 13:18:34.175 [main] AddEmployeePage - New Employee Created
+[INFO ] 2023-02-22 13:21:46.639 [main] RecruitmentPageSteps - Navigated to job vacancy page
+[INFO ] 2023-02-22 13:21:57.266 [main] RecruitmentPage - Job Title send for search
+[INFO ] 2023-02-22 13:22:46.385 [main] RecruitmentPageSteps - Navigated to job vacancy page
+[INFO ] 2023-02-22 13:22:53.578 [main] RecruitmentPage - Job Title send for search
+[INFO ] 2023-02-22 15:09:11.486 [main] AddEmployeePage - Employee Details added
+[INFO ] 2023-02-22 15:09:11.809 [main] AddEmployeePage - Login info checked
+[INFO ] 2023-02-22 15:09:13.640 [main] AddEmployeePage - Employee credentials sent succesfully
+[INFO ] 2023-02-22 15:09:13.856 [main] AddEmployeePage - New Employee Created
+[INFO ] 2023-02-22 15:11:34.522 [main] RecruitmentPageSteps - Navigated to job vacancy page
+[INFO ] 2023-02-22 15:11:39.037 [main] RecruitmentPage - Job Title send for search
+[INFO ] 2023-02-22 15:12:10.554 [main] RecruitmentPageSteps - Navigated to job vacancy page
+[INFO ] 2023-02-22 15:12:14.762 [main] RecruitmentPage - Job Title send for search

@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features = "./src/test/resources/features"
 		,glue={"stepdefinations","appHooks"},
-		plugin={"pretty","html:reports/myReport.html","rerun:target/rerun.txt"
+		plugin={"pretty","html:reports/myReport.html","json:reports/myReport.json","rerun:target/rerun.txt"
 				}
 		//tags="@Sanity2"
 		)
